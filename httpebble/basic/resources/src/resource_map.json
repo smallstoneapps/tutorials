@@ -1,0 +1,16 @@
+{
+  "friendlyVersion": "VERSION",
+  "versionDefName": "APP_RESOURCES",
+  "media": [
+    {
+      "defName": "MENU_ICON",
+      "type": "png",
+      "file": "images/menu.png"
+    },
+    {
+      "defName": "MCDONALDS_LOGO",
+      "type": "png",
+      "file": "images/logo.png"
+    }
+  ]
+}
